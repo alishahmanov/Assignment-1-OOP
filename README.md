@@ -4,11 +4,7 @@ Create a base class named Person.
 Create two derived classes Student and Teacher that inherit from Person.
 
 Additional methods:
-addGrade: adds a grade to the list of grades
-
-calculateGPA: Computes and returns the average gpa from grades.
-
-giveRaise: Takes a percentage and increases the teacher's salary by that percentage.
+addGrade: adds a grade to the list of grades<br>calculateGPA: Computes and returns the average gpa from grades.<br>giveRaise: Takes a percentage and increases the teacher's salary by that percentage.
 
 
 Create a class School with:
