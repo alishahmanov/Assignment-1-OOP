@@ -5,7 +5,9 @@ Create two derived classes Student and Teacher that inherit from Person.
 
 Additional methods:
 addGrade: adds a grade to the list of grades
+
 calculateGPA: Computes and returns the average gpa from grades.
+
 giveRaise: Takes a percentage and increases the teacher's salary by that percentage.
 
 
